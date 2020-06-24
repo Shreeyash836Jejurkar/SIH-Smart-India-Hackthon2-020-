@@ -1,2 +1,2 @@
-# SIH-Smart-India-Hackthon2-020-
+# SIH-Smart-India-Hackthon2020
 Sky Region Detection
